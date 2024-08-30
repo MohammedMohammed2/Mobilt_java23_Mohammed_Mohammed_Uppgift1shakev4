@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SensorProject</string>
+
+    <string-array name="colors_array">
+        <item>Red</item>
+        <item>Black</item>
+        <item>Purple</item>
+        <item>blue</item>
+    </string-array>
+</resources>
